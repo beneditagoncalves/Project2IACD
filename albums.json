@@ -1,0 +1,295 @@
+{
+  "Rumours - Fleetwood Mac": {
+    "data": {
+      "album": {
+        "album": "Rumours [35th Anniversary Deluxe Edition]",
+        "artist": "Fleetwood Mac",
+        "releaseDate": "Jan 29, 2013",
+        "criticScore": 99,
+        "publisher": "Rhino",
+        "genres": [],
+        "numOfCriticReviews": 11,
+        "numOfPositiveCriticReviews": 11,
+        "numOfMixedCriticReviews": 0,
+        "numOfNegativeCriticReviews": 0,
+        "productImage": "https://static.metacritic.com/images/products/music/8/f28c98bd9bb8c89b789211d5b6b0684a-98.jpg"
+      }
+    }
+  },
+  "Appetite for Destruction - Guns N' Roses": {
+    "data": {
+      "album": {
+        "album": "Appetite for Destruction: Super Deluxe Edition [Box Set]",
+        "artist": "Guns N' Roses",
+        "releaseDate": "Jun 29, 2018",
+        "criticScore": 95,
+        "publisher": "Geffen",
+        "genres": [
+          "Pop"
+        ],
+        "numOfCriticReviews": 10,
+        "numOfPositiveCriticReviews": 10,
+        "numOfMixedCriticReviews": 0,
+        "numOfNegativeCriticReviews": 0,
+        "productImage": "https://static.metacritic.com/images/products/music/4/146925c08e452021c62681aff89b46ed-98.jpg"
+      }
+    }
+  },
+  "The Joshua Tree - U2": {
+    "data": {
+      "album": {
+        "album": "The Joshua Tree [30th Anniversary Super Deluxe Edition]",
+        "artist": "U2",
+        "releaseDate": "Jun  2, 2017",
+        "criticScore": 90,
+        "publisher": "Island",
+        "genres": [
+          "Pop/Rock"
+        ],
+        "numOfCriticReviews": 5,
+        "numOfPositiveCriticReviews": 5,
+        "numOfMixedCriticReviews": 0,
+        "numOfNegativeCriticReviews": 0,
+        "productImage": "https://static.metacritic.com/images/products/music/4/82579e98c2b7e9ea91b61c933fa85b36-98.jpg"
+      }
+    }
+  },
+  "21 - Adele": {
+    "data": {
+      "album": {
+        "album": "21",
+        "artist": "Adele",
+        "releaseDate": "Feb 22, 2011",
+        "criticScore": 76,
+        "publisher": "XL",
+        "genres": [
+          "R&B",
+          "Soul",
+          "Pop/Rock",
+          "Adult Alternative Pop/Rock",
+          "Alternative/Indie Rock"
+        ],
+        "numOfCriticReviews": 34,
+        "numOfPositiveCriticReviews": 26,
+        "numOfMixedCriticReviews": 8,
+        "numOfNegativeCriticReviews": 0,
+        "productImage": "https://static.metacritic.com/images/products/music/3/8a8b88a5f3aac1d601c1db135b2c96e7-98.jpg"
+      }
+    }
+  },
+  "The Eminem Show - Eminem": {
+    "data": {
+      "album": {
+        "album": "The Eminem Show",
+        "artist": "Eminem",
+        "releaseDate": "May 28, 2002",
+        "criticScore": 75,
+        "publisher": "Interscope",
+        "genres": [
+          "Rap"
+        ],
+        "numOfCriticReviews": 20,
+        "numOfPositiveCriticReviews": 15,
+        "numOfMixedCriticReviews": 4,
+        "numOfNegativeCriticReviews": 1,
+        "productImage": "https://static.metacritic.com/images/products/music/7/4214a5666345f5a1bf6e29dc1bdbafcd-98.jpg"
+      }
+    }
+  },
+  "Legend - Bob Marley & The Wailers": {
+    "data": {
+      "album": {
+        "album": "Legend",
+        "artist": "John Legend",
+        "releaseDate": "Sep  9, 2022",
+        "criticScore": 66,
+        "publisher": "Republic",
+        "genres": [
+          "Pop",
+          "R&B",
+          "Adult Contemporary R&B",
+          "Contemporary R&B"
+        ],
+        "numOfCriticReviews": 4,
+        "numOfPositiveCriticReviews": 2,
+        "numOfMixedCriticReviews": 2,
+        "numOfNegativeCriticReviews": 0,
+        "productImage": "https://static.metacritic.com/images/products/music/7/65bc736c81ac0683dc4c690524540516-98.jpg"
+      }
+    }
+  },
+  "Goodbye Yellow Brick Road - Elton John": {
+    "data": {
+      "album": {
+        "album": "Goodbye Yellow Brick Road [40th Anniversary Edition]",
+        "artist": "Elton John",
+        "releaseDate": "Mar 25, 2014",
+        "criticScore": 92,
+        "publisher": "Universal",
+        "genres": [
+          "Pop"
+        ],
+        "numOfCriticReviews": 8,
+        "numOfPositiveCriticReviews": 8,
+        "numOfMixedCriticReviews": 0,
+        "numOfNegativeCriticReviews": 0,
+        "productImage": "https://static.metacritic.com/images/products/music/5/776e07a0c455c15d4a2ea2099e26fb41-98.jpg"
+      }
+    }
+  },
+  "1989 - Taylor Swift": {
+    "data": {
+      "album": {
+        "album": "1989",
+        "artist": "Taylor Swift",
+        "releaseDate": "Oct 27, 2014",
+        "criticScore": 76,
+        "publisher": "Big Machine Records",
+        "genres": [
+          "Pop/Rock"
+        ],
+        "numOfCriticReviews": 29,
+        "numOfPositiveCriticReviews": 21,
+        "numOfMixedCriticReviews": 8,
+        "numOfNegativeCriticReviews": 0,
+        "productImage": "https://static.metacritic.com/images/products/music/7/37d41a1210252e00054ab77139189533-98.jpg"
+      }
+    }
+  },
+  "Faith - George Michael": {
+    "data": {
+      "album": {
+        "album": "Faith: Special Edition",
+        "artist": "George Michael",
+        "releaseDate": "Feb  1, 2011",
+        "criticScore": 90,
+        "publisher": "Sony Music",
+        "genres": [],
+        "numOfCriticReviews": 8,
+        "numOfPositiveCriticReviews": 8,
+        "numOfMixedCriticReviews": 0,
+        "numOfNegativeCriticReviews": 0,
+        "productImage": "https://static.metacritic.com/images/products/music/9/a7d697e8744ad5f6da767223cf0fdd55-98.jpg"
+      }
+    }
+  },
+  "Physical Graffiti - Led Zeppelin": {
+    "data": {
+      "album": {
+        "album": "Physical Graffiti [Remastered]",
+        "artist": "Led Zeppelin",
+        "releaseDate": "Feb 24, 2015",
+        "criticScore": 97,
+        "publisher": "Atlantic",
+        "genres": [
+          "Pop/Rock",
+          "Hard Rock"
+        ],
+        "numOfCriticReviews": 10,
+        "numOfPositiveCriticReviews": 10,
+        "numOfMixedCriticReviews": 0,
+        "numOfNegativeCriticReviews": 0,
+        "productImage": "https://static.metacritic.com/images/products/music/9/03f69a4dedd0a2c45b6c02e66fe5e5b4-98.jpg"
+      }
+    }
+  },
+  "Jagged Little Pill Acoustic - Alanis Morissette": {
+    "data": {
+      "album": {
+        "album": "Jagged Little Pill Acoustic",
+        "artist": "Alanis Morissette",
+        "releaseDate": "Jul 26, 2005",
+        "criticScore": 40,
+        "publisher": "Maverick",
+        "genres": [
+          "Rock",
+          "Adult Alternative",
+          "Singer-Songwriter"
+        ],
+        "numOfCriticReviews": 14,
+        "numOfPositiveCriticReviews": 1,
+        "numOfMixedCriticReviews": 7,
+        "numOfNegativeCriticReviews": 6,
+        "productImage": "https://static.metacritic.com/images/products/music/1/a1d450633c2481ad1af92f023e889213-98.jpg"
+      }
+    }
+  },
+  "Recovery - Eminem": {
+    "data": {
+      "album": {
+        "album": "Recovery",
+        "artist": "Eminem",
+        "releaseDate": "Jun 22, 2010",
+        "criticScore": 63,
+        "publisher": "Aftermath",
+        "genres": [
+          "Rap"
+        ],
+        "numOfCriticReviews": 28,
+        "numOfPositiveCriticReviews": 15,
+        "numOfMixedCriticReviews": 9,
+        "numOfNegativeCriticReviews": 4,
+        "productImage": "https://static.metacritic.com/images/products/music/1/c29497c19b7d9ca1fa5f97b128a53677-98.jpg"
+      }
+    }
+  },
+  "The Marshall Mathers LP - Eminem": {
+    "data": {
+      "album": {
+        "album": "The Marshall Mathers LP",
+        "artist": "Eminem",
+        "releaseDate": "May 23, 2000",
+        "criticScore": 78,
+        "publisher": "Interscope",
+        "genres": [
+          "Rap"
+        ],
+        "numOfCriticReviews": 21,
+        "numOfPositiveCriticReviews": 14,
+        "numOfMixedCriticReviews": 6,
+        "numOfNegativeCriticReviews": 1,
+        "productImage": "https://static.metacritic.com/images/products/music/6/15354b41747edeb1d6c89abcc9beb197-98.jpg"
+      }
+    }
+  },
+  "Automatic for the People - R.E.M.": {
+    "data": {
+      "album": {
+        "album": "Automatic for the People [25th Anniversary Deluxe Edition]",
+        "artist": "R.E.M.",
+        "releaseDate": "Nov 10, 2017",
+        "criticScore": 96,
+        "publisher": "Warner Music",
+        "genres": [
+          "Pop/Rock"
+        ],
+        "numOfCriticReviews": 17,
+        "numOfPositiveCriticReviews": 16,
+        "numOfMixedCriticReviews": 1,
+        "numOfNegativeCriticReviews": 0,
+        "productImage": "https://static.metacritic.com/images/products/music/4/dc578ee50d0ce07389ea90c42ba078d0-98.jpg"
+      }
+    }
+  },
+  "Nevermind - Nirvana": {
+    "data": {
+      "album": {
+        "album": "Nevermind [20th Anniversary Edition]",
+        "artist": "Nirvana",
+        "releaseDate": "Sep 27, 2011",
+        "criticScore": 89,
+        "publisher": "Geffen",
+        "genres": [
+          "Rock",
+          "Grunge",
+          "Alternative/Indie Rock"
+        ],
+        "numOfCriticReviews": 15,
+        "numOfPositiveCriticReviews": 13,
+        "numOfMixedCriticReviews": 2,
+        "numOfNegativeCriticReviews": 0,
+        "productImage": "https://static.metacritic.com/images/products/music/7/7aa9b783ac3fba5060f3b0ba44983b72-98.jpg"
+      }
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "The Godfather": {
+    "data": {"movie": {"title": "The Godfather", "criticScore": 10, "year": "1972", "director": ["Francis Ford Coppola"], "releaseDate": "March 24, 1972", "genres": ["Crime"], "cast": ["Al Pacino", "Marlon Brando"], "rating": "R", "runtime": "175 min", "summary": "Francis Ford Coppola's epic features Marlon Brando in his Oscar-winning role as the patriarch of the Corleone family. Director Coppola paints a chilling portrait of the Sicilian clan's rise and near fall from power in America, masterfully balancing the story between the Corleone's family life and the ugly crime business in which they are engaged. Based on Mario Puzo's best-selling novel and featuring career-making performances by Al Pacino, James Caan and Robert Duvall, this searing and brilliant film garnered ten Academy Award nominations, and won three including Best Picture of 1972. [Paramount Pictures]", "numOfCriticReviews": 16}}},
+
+  "The Shawshank Redemption": {
+    "data": {"movie": {"title": "The Shawshank Redemption", "criticScore": 81, "year": "1994", "director": ["Frank Darabont"], "releaseDate": "September 1, 1994", "genres": ["Crime"], "cast": ["Morgan Freeman", "Tim Robbins"], "rating": "R", "runtime": "142 min", "summary": "Wrongly convicted, Andy Dufresne (Tim Robbins) is sentenced to two consecutive life terms in in Maine's Shawshank prison for the murders of his wife and her lover.  Set in the 1940's, the film shows how Andy learns to get by in the brutal confines of prison, even earning the respect of his fellow inmates, most notably the longtime convict \"Red\" Redding (Morgan Freeman).", "numOfCriticReviews": 21}}},
+
+  "The Dark Knight": {
+    "data": {"movie": {"title": "The Dark Knight", "criticScore": 84, "year": "2008", "director": ["Christopher Nolan"], "releaseDate": "July 18, 2008", "genres": ["Crime"], "cast": ["Aaron Eckhart", "Christian Bale", "Heath Ledger"], "rating": "PG-13", "runtime": "152 min", "summary": "Batman raises the stakes in his war on crime. With the help of Lieutenant Jim Gordon and District Attorney Harvey Dent Batman sets out to dismantle the remaining criminal organizations that plague the city streets. The partnership proves to be effective, but they soon find themselves prey to reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker. (Warner Bros.)", "numOfCriticReviews": 39}}},
+
+  "The Lord of the Rings: The Fellowship of the Ring": {
+    "data": {"movie": {"title": "The Lord of the Rings: The Fellowship of the Ring", "criticScore": 92, "year": "2001", "director": ["Peter Jackson"], "releaseDate": "December 19, 2001", "genres": ["Fantasy"], "cast": ["Andy Serkis", "Elijah Wood"], "rating": "PG-13", "runtime": "178 min", "summary": "", "numOfCriticReviews": 34}}},
+
+  "Pulp Fiction": {
+    "data": {"movie": {"title": "Pulp Fiction", "criticScore": 94, "year": "1994", "director": ["Quentin Tarantino"], "releaseDate": "October 14, 1994", "genres": ["Crime"], "cast": ["Bruce Willis", "John Travolta", "Samuel L. Jackson"], "rating": "R", "runtime": "154 min", "summary": "", "numOfCriticReviews": 24}}},
+
+  "Star Wars: Episode IV - A New Hope": {
+    "data": {"movie": {"title": "Star Wars: Episode IV - A New Hope", "criticScore": 90, "year": "1977", "director": ["George Lucas"], "releaseDate": "May 25, 1977", "genres": ["Fantasy"], "cast": ["Carrie Fisher", "Harrison Ford", "Mark Hamill"], "rating": "PG", "runtime": "121 min", "summary": "A long time ago in a galaxy far, far away... Princess Leia (Carrie Fisher) is held hostage by the evil Imperial forces in their effort to quell the rebellion against the Galactic Empire. Luke Skywalker (Mark Hamill) and Captain Han Solo (Harrison Ford) team together with the lovable droid duo, R2-D2 and C-3PO, to rescue the beautiful princess and restore justice in the galaxy. [20th Century Fox]", "numOfCriticReviews": 24}}},
+
+  "Forrest Gump": {
+    "data": {"movie": {"title": "Forrest Gump", "criticScore": 82, "year": "1994", "director": ["Robert Zemeckis"], "releaseDate": "July 6, 1994", "genres": ["Romance"], "cast": ["Gary Sinise", "Robin Wright", "Sally Field", "Tom Hanks"], "rating": "PG-13", "runtime": "142 min", "summary": "", "numOfCriticReviews": 20}}}}
