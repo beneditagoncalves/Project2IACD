@@ -32,7 +32,10 @@ for movie_line in tqdm(movies_lines, desc='Querying MetacriticAPI...', total=len
       '  rating',
       '  runtime',
       '  summary',
-      '  numOfCriticReviews',
+      '  numOfCriticReviews'
+      '  numOfPositiveCriticReviews',
+      '  numOfMixedCriticReviews',
+      '  numOfNegativeCriticReviews',
       ' }',
       '}'
     )

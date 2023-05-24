@@ -39,10 +39,10 @@ for tvshow_line in tqdm(tvshows_lines, desc='Querying MetacriticAPI...', total=l
           '  numOfPositiveCriticReviews',
           '  numOfMixedCriticReviews',
           '  numOfNegativeCriticReviews',
-          '  productImage',
           ' }',
           '}'
         )
+
         query = '\n'.join(query)
         response = requests.post(url=url, json={"query": query})
         if response.status_code == 200:

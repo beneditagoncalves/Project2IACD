@@ -2,6 +2,7 @@
   "Rumours - Fleetwood Mac": {
     "data": {
       "album": {
+        "url": "https://www.metacritic.com/music/rumours/fleetwood-mac",
         "album": "Rumours [35th Anniversary Deluxe Edition]",
         "artist": "Fleetwood Mac",
         "releaseDate": "Jan 29, 2013",
@@ -11,14 +12,14 @@
         "numOfCriticReviews": 11,
         "numOfPositiveCriticReviews": 11,
         "numOfMixedCriticReviews": 0,
-        "numOfNegativeCriticReviews": 0,
-        "productImage": "https://static.metacritic.com/images/products/music/8/f28c98bd9bb8c89b789211d5b6b0684a-98.jpg"
+        "numOfNegativeCriticReviews": 0
       }
     }
   },
   "Appetite for Destruction - Guns N' Roses": {
     "data": {
       "album": {
+        "url": "https://www.metacritic.com/music/appetite-for-destruction/guns-n'-roses",
         "album": "Appetite for Destruction: Super Deluxe Edition [Box Set]",
         "artist": "Guns N' Roses",
         "releaseDate": "Jun 29, 2018",
@@ -30,14 +31,14 @@
         "numOfCriticReviews": 10,
         "numOfPositiveCriticReviews": 10,
         "numOfMixedCriticReviews": 0,
-        "numOfNegativeCriticReviews": 0,
-        "productImage": "https://static.metacritic.com/images/products/music/4/146925c08e452021c62681aff89b46ed-98.jpg"
+        "numOfNegativeCriticReviews": 0
       }
     }
   },
   "The Joshua Tree - U2": {
     "data": {
       "album": {
+        "url": "https://www.metacritic.com/music/the-joshua-tree/u2",
         "album": "The Joshua Tree [30th Anniversary Super Deluxe Edition]",
         "artist": "U2",
         "releaseDate": "Jun  2, 2017",
@@ -49,14 +50,14 @@
         "numOfCriticReviews": 5,
         "numOfPositiveCriticReviews": 5,
         "numOfMixedCriticReviews": 0,
-        "numOfNegativeCriticReviews": 0,
-        "productImage": "https://static.metacritic.com/images/products/music/4/82579e98c2b7e9ea91b61c933fa85b36-98.jpg"
+        "numOfNegativeCriticReviews": 0
       }
     }
   },
   "21 - Adele": {
     "data": {
       "album": {
+        "url": "https://www.metacritic.com/music/21/adele",
         "album": "21",
         "artist": "Adele",
         "releaseDate": "Feb 22, 2011",
@@ -72,14 +73,14 @@
         "numOfCriticReviews": 34,
         "numOfPositiveCriticReviews": 26,
         "numOfMixedCriticReviews": 8,
-        "numOfNegativeCriticReviews": 0,
-        "productImage": "https://static.metacritic.com/images/products/music/3/8a8b88a5f3aac1d601c1db135b2c96e7-98.jpg"
+        "numOfNegativeCriticReviews": 0
       }
     }
   },
   "The Eminem Show - Eminem": {
     "data": {
       "album": {
+        "url": "https://www.metacritic.com/music/the-eminem-show/eminem",
         "album": "The Eminem Show",
         "artist": "Eminem",
         "releaseDate": "May 28, 2002",
@@ -91,14 +92,14 @@
         "numOfCriticReviews": 20,
         "numOfPositiveCriticReviews": 15,
         "numOfMixedCriticReviews": 4,
-        "numOfNegativeCriticReviews": 1,
-        "productImage": "https://static.metacritic.com/images/products/music/7/4214a5666345f5a1bf6e29dc1bdbafcd-98.jpg"
+        "numOfNegativeCriticReviews": 1
       }
     }
   },
   "Legend - Bob Marley & The Wailers": {
     "data": {
       "album": {
+        "url": "https://www.metacritic.com/music/legend/bob-marley-&-the-wailers",
         "album": "Legend",
         "artist": "John Legend",
         "releaseDate": "Sep  9, 2022",
@@ -113,14 +114,14 @@
         "numOfCriticReviews": 4,
         "numOfPositiveCriticReviews": 2,
         "numOfMixedCriticReviews": 2,
-        "numOfNegativeCriticReviews": 0,
-        "productImage": "https://static.metacritic.com/images/products/music/7/65bc736c81ac0683dc4c690524540516-98.jpg"
+        "numOfNegativeCriticReviews": 0
       }
     }
   },
   "Goodbye Yellow Brick Road - Elton John": {
     "data": {
       "album": {
+        "url": "https://www.metacritic.com/music/goodbye-yellow-brick-road/elton-john",
         "album": "Goodbye Yellow Brick Road [40th Anniversary Edition]",
         "artist": "Elton John",
         "releaseDate": "Mar 25, 2014",
@@ -132,14 +133,14 @@
         "numOfCriticReviews": 8,
         "numOfPositiveCriticReviews": 8,
         "numOfMixedCriticReviews": 0,
-        "numOfNegativeCriticReviews": 0,
-        "productImage": "https://static.metacritic.com/images/products/music/5/776e07a0c455c15d4a2ea2099e26fb41-98.jpg"
+        "numOfNegativeCriticReviews": 0
       }
     }
   },
   "1989 - Taylor Swift": {
     "data": {
       "album": {
+        "url": "https://www.metacritic.com/music/1989/taylor-swift",
         "album": "1989",
         "artist": "Taylor Swift",
         "releaseDate": "Oct 27, 2014",
@@ -151,14 +152,14 @@
         "numOfCriticReviews": 29,
         "numOfPositiveCriticReviews": 21,
         "numOfMixedCriticReviews": 8,
-        "numOfNegativeCriticReviews": 0,
-        "productImage": "https://static.metacritic.com/images/products/music/7/37d41a1210252e00054ab77139189533-98.jpg"
+        "numOfNegativeCriticReviews": 0
       }
     }
   },
   "Faith - George Michael": {
     "data": {
       "album": {
+        "url": "https://www.metacritic.com/music/faith/george-michael",
         "album": "Faith: Special Edition",
         "artist": "George Michael",
         "releaseDate": "Feb  1, 2011",
@@ -168,14 +169,14 @@
         "numOfCriticReviews": 8,
         "numOfPositiveCriticReviews": 8,
         "numOfMixedCriticReviews": 0,
-        "numOfNegativeCriticReviews": 0,
-        "productImage": "https://static.metacritic.com/images/products/music/9/a7d697e8744ad5f6da767223cf0fdd55-98.jpg"
+        "numOfNegativeCriticReviews": 0
       }
     }
   },
   "Physical Graffiti - Led Zeppelin": {
     "data": {
       "album": {
+        "url": "https://www.metacritic.com/music/physical-graffiti/led-zeppelin",
         "album": "Physical Graffiti [Remastered]",
         "artist": "Led Zeppelin",
         "releaseDate": "Feb 24, 2015",
@@ -188,14 +189,14 @@
         "numOfCriticReviews": 10,
         "numOfPositiveCriticReviews": 10,
         "numOfMixedCriticReviews": 0,
-        "numOfNegativeCriticReviews": 0,
-        "productImage": "https://static.metacritic.com/images/products/music/9/03f69a4dedd0a2c45b6c02e66fe5e5b4-98.jpg"
+        "numOfNegativeCriticReviews": 0
       }
     }
   },
   "Jagged Little Pill Acoustic - Alanis Morissette": {
     "data": {
       "album": {
+        "url": "https://www.metacritic.com/music/jagged-little-pill-acoustic/alanis-morissette",
         "album": "Jagged Little Pill Acoustic",
         "artist": "Alanis Morissette",
         "releaseDate": "Jul 26, 2005",
@@ -209,14 +210,14 @@
         "numOfCriticReviews": 14,
         "numOfPositiveCriticReviews": 1,
         "numOfMixedCriticReviews": 7,
-        "numOfNegativeCriticReviews": 6,
-        "productImage": "https://static.metacritic.com/images/products/music/1/a1d450633c2481ad1af92f023e889213-98.jpg"
+        "numOfNegativeCriticReviews": 6
       }
     }
   },
   "Recovery - Eminem": {
     "data": {
       "album": {
+        "url": "https://www.metacritic.com/music/recovery/eminem",
         "album": "Recovery",
         "artist": "Eminem",
         "releaseDate": "Jun 22, 2010",
@@ -228,14 +229,14 @@
         "numOfCriticReviews": 28,
         "numOfPositiveCriticReviews": 15,
         "numOfMixedCriticReviews": 9,
-        "numOfNegativeCriticReviews": 4,
-        "productImage": "https://static.metacritic.com/images/products/music/1/c29497c19b7d9ca1fa5f97b128a53677-98.jpg"
+        "numOfNegativeCriticReviews": 4
       }
     }
   },
   "The Marshall Mathers LP - Eminem": {
     "data": {
       "album": {
+        "url": "https://www.metacritic.com/music/the-marshall-mathers-lp/eminem",
         "album": "The Marshall Mathers LP",
         "artist": "Eminem",
         "releaseDate": "May 23, 2000",
@@ -247,14 +248,14 @@
         "numOfCriticReviews": 21,
         "numOfPositiveCriticReviews": 14,
         "numOfMixedCriticReviews": 6,
-        "numOfNegativeCriticReviews": 1,
-        "productImage": "https://static.metacritic.com/images/products/music/6/15354b41747edeb1d6c89abcc9beb197-98.jpg"
+        "numOfNegativeCriticReviews": 1
       }
     }
   },
   "Automatic for the People - R.E.M.": {
     "data": {
       "album": {
+        "url": "https://www.metacritic.com/music/automatic-for-the-people/r.e.m.",
         "album": "Automatic for the People [25th Anniversary Deluxe Edition]",
         "artist": "R.E.M.",
         "releaseDate": "Nov 10, 2017",
@@ -266,14 +267,14 @@
         "numOfCriticReviews": 17,
         "numOfPositiveCriticReviews": 16,
         "numOfMixedCriticReviews": 1,
-        "numOfNegativeCriticReviews": 0,
-        "productImage": "https://static.metacritic.com/images/products/music/4/dc578ee50d0ce07389ea90c42ba078d0-98.jpg"
+        "numOfNegativeCriticReviews": 0
       }
     }
   },
   "Nevermind - Nirvana": {
     "data": {
       "album": {
+        "url": "https://www.metacritic.com/music/nevermind/nirvana",
         "album": "Nevermind [20th Anniversary Edition]",
         "artist": "Nirvana",
         "releaseDate": "Sep 27, 2011",
@@ -287,8 +288,287 @@
         "numOfCriticReviews": 15,
         "numOfPositiveCriticReviews": 13,
         "numOfMixedCriticReviews": 2,
-        "numOfNegativeCriticReviews": 0,
-        "productImage": "https://static.metacritic.com/images/products/music/7/7aa9b783ac3fba5060f3b0ba44983b72-98.jpg"
+        "numOfNegativeCriticReviews": 0
+      }
+    }
+  },
+  "Greatest Hits - Bob Seger & The Silver Bullet Band": {
+    "data": {
+      "album": {
+        "url": "https://www.metacritic.com/music/greatest-hits/bob-seger-&-the-silver-bullet-band",
+        "album": "Greatest Hits",
+        "artist": "Waterparks",
+        "releaseDate": "May 21, 2021",
+        "criticScore": 82,
+        "publisher": "300 Entertainment",
+        "genres": [
+          "Pop/Rock",
+          "Alternative/Indie Rock",
+          "Indie Electronic",
+          "Emo-Pop",
+          "Pop Punk"
+        ],
+        "numOfCriticReviews": 4,
+        "numOfPositiveCriticReviews": 4,
+        "numOfMixedCriticReviews": 0,
+        "numOfNegativeCriticReviews": 0
+      }
+    }
+  },
+  "Back to Black - Amy Winehouse": {
+    "data": {
+      "album": {
+        "url": "https://www.metacritic.com/music/back-to-black/amy-winehouse",
+        "album": "Back To Black",
+        "artist": "Amy Winehouse",
+        "releaseDate": "Mar 13, 2007",
+        "criticScore": 81,
+        "publisher": "Republic",
+        "genres": [
+          "Pop",
+          "R&B",
+          "Soul"
+        ],
+        "numOfCriticReviews": 26,
+        "numOfPositiveCriticReviews": 24,
+        "numOfMixedCriticReviews": 2,
+        "numOfNegativeCriticReviews": 0
+      }
+    }
+  },
+  "American Idiot - Green Day": {
+    "data": {
+      "album": {
+        "url": "https://www.metacritic.com/music/american-idiot/green-day",
+        "album": "American Idiot",
+        "artist": "Green Day",
+        "releaseDate": "Sep 21, 2004",
+        "criticScore": 79,
+        "publisher": "Reprise",
+        "genres": [
+          "Rock",
+          "Alternative"
+        ],
+        "numOfCriticReviews": 26,
+        "numOfPositiveCriticReviews": 22,
+        "numOfMixedCriticReviews": 4,
+        "numOfNegativeCriticReviews": 0
+      }
+    }
+  },
+  "Purple Rain - Prince and The Revolution": {
+    "data": {
+      "album": {
+        "url": "https://www.metacritic.com/music/purple-rain/prince-and-the-revolution",
+        "album": "Purple Rain [Deluxe Expanded Edition]",
+        "artist": "Prince and the Revolution",
+        "releaseDate": "Jun 23, 2017",
+        "criticScore": 100,
+        "publisher": "Rhino",
+        "genres": [
+          "Pop/Rock",
+          "Contemporary Pop/Rock",
+          "Contemporary R&B",
+          "Soundtracks",
+          "Dance-Rock"
+        ],
+        "numOfCriticReviews": 8,
+        "numOfPositiveCriticReviews": 8,
+        "numOfMixedCriticReviews": 0,
+        "numOfNegativeCriticReviews": 0
+      }
+    }
+  },
+  "The Wall - Pink Floyd": {
+    "data": {
+      "album": {
+        "url": "https://www.metacritic.com/music/the-wall/pink-floyd",
+        "album": "The Wall [Experience/Immersion Edition]",
+        "artist": "Pink Floyd",
+        "releaseDate": "Feb 28, 2012",
+        "criticScore": 84,
+        "publisher": "Capitol/EMI Records / Capitol",
+        "genres": [],
+        "numOfCriticReviews": 11,
+        "numOfPositiveCriticReviews": 10,
+        "numOfMixedCriticReviews": 1,
+        "numOfNegativeCriticReviews": 0
+      }
+    }
+  },
+  "Led Zeppelin IV - Led Zeppelin": {
+    "data": {
+      "album": {
+        "url": "https://www.metacritic.com/music/led-zeppelin-iv/led-zeppelin",
+        "album": "Led Zeppelin IV [Remastered]",
+        "artist": "Led Zeppelin",
+        "releaseDate": "Oct 28, 2014",
+        "criticScore": 100,
+        "publisher": "Atlantic",
+        "genres": [
+          "Rock"
+        ],
+        "numOfCriticReviews": 9,
+        "numOfPositiveCriticReviews": 9,
+        "numOfMixedCriticReviews": 0,
+        "numOfNegativeCriticReviews": 0
+      }
+    }
+  },
+  "4 - Beyonc\u00c3\u00a9": {
+    "data": {
+      "album": {
+        "url": "https://www.metacritic.com/music/4/beyonc\u00e3\u00a9",
+        "album": "4",
+        "artist": "Dungen",
+        "releaseDate": "Sep 30, 2008",
+        "criticScore": 79,
+        "publisher": "Kemado",
+        "genres": [
+          "Indie",
+          "Rock"
+        ],
+        "numOfCriticReviews": 19,
+        "numOfPositiveCriticReviews": 16,
+        "numOfMixedCriticReviews": 3,
+        "numOfNegativeCriticReviews": 0
+      }
+    }
+  },
+  "The Fame - Lady Gaga": {
+    "data": {
+      "album": {
+        "url": "https://www.metacritic.com/music/the-fame/lady-gaga",
+        "album": "The Fame",
+        "artist": "Lady Gaga",
+        "releaseDate": "Oct 28, 2008",
+        "criticScore": 71,
+        "publisher": "Streamline/KonLive",
+        "genres": [
+          "Rock",
+          "Dance",
+          "Pop"
+        ],
+        "numOfCriticReviews": 13,
+        "numOfPositiveCriticReviews": 10,
+        "numOfMixedCriticReviews": 3,
+        "numOfNegativeCriticReviews": 0
+      }
+    }
+  },
+  "The Element of Freedom - Alicia Keys": {
+    "data": {
+      "album": {
+        "url": "https://www.metacritic.com/music/the-element-of-freedom/alicia-keys",
+        "album": "The Element Of Freedom",
+        "artist": "Alicia Keys",
+        "releaseDate": "Dec 15, 2009",
+        "criticScore": 67,
+        "publisher": "J",
+        "genres": [
+          "Pop",
+          "R&B",
+          "Soul"
+        ],
+        "numOfCriticReviews": 16,
+        "numOfPositiveCriticReviews": 9,
+        "numOfMixedCriticReviews": 6,
+        "numOfNegativeCriticReviews": 1
+      }
+    }
+  },
+  "OK Computer - Radiohead": {
+    "data": {
+      "album": {
+        "url": "https://www.metacritic.com/music/ok-computer/radiohead",
+        "album": "OK Computer: OKNOTOK 1997-2017",
+        "artist": "Radiohead",
+        "releaseDate": "Jun 23, 2017",
+        "criticScore": 100,
+        "publisher": "XL",
+        "genres": [
+          "Pop/Rock"
+        ],
+        "numOfCriticReviews": 15,
+        "numOfPositiveCriticReviews": 15,
+        "numOfMixedCriticReviews": 0,
+        "numOfNegativeCriticReviews": 0
+      }
+    }
+  },
+  "The Dutchess - Fergie": {
+    "data": {
+      "album": {
+        "url": "https://www.metacritic.com/music/the-dutchess/fergie",
+        "album": "The Dutchess",
+        "artist": "Fergie",
+        "releaseDate": "Sep 19, 2006",
+        "criticScore": 58,
+        "publisher": "Interscope",
+        "genres": [
+          "Pop",
+          "R&B"
+        ],
+        "numOfCriticReviews": 15,
+        "numOfPositiveCriticReviews": 5,
+        "numOfMixedCriticReviews": 9,
+        "numOfNegativeCriticReviews": 1
+      }
+    }
+  },
+  "The Queen is Dead - The Smiths": {
+    "data": {
+      "album": {
+        "url": "https://www.metacritic.com/music/the-queen-is-dead/the-smiths",
+        "album": "The Queen Is Dead [Deluxe Edition)",
+        "artist": "The Smiths",
+        "releaseDate": "Oct 20, 2017",
+        "criticScore": 99,
+        "publisher": "Rhino / Warner Bros.",
+        "genres": [
+          "Pop/Rock"
+        ],
+        "numOfCriticReviews": 11,
+        "numOfPositiveCriticReviews": 11,
+        "numOfMixedCriticReviews": 0,
+        "numOfNegativeCriticReviews": 0
+      }
+    }
+  },
+  "Doolittle - Pixies": {
+    "data": {
+      "album": {
+        "url": "https://www.metacritic.com/music/doolittle/pixies",
+        "album": "Doolittle 25",
+        "artist": "Pixies",
+        "releaseDate": "Dec  2, 2014",
+        "criticScore": 100,
+        "publisher": "4AD",
+        "genres": [],
+        "numOfCriticReviews": 9,
+        "numOfPositiveCriticReviews": 9,
+        "numOfMixedCriticReviews": 0,
+        "numOfNegativeCriticReviews": 0
+      }
+    }
+  },
+  "Transatlanticism - Death Cab for Cutie": {
+    "data": {
+      "album": {
+        "url": "https://www.metacritic.com/music/transatlanticism/death-cab-for-cutie",
+        "album": "Transatlanticism",
+        "artist": "Death Cab for Cutie",
+        "releaseDate": "Oct  7, 2003",
+        "criticScore": 84,
+        "publisher": "Barsuk",
+        "genres": [
+          "Indie",
+          "Rock"
+        ],
+        "numOfCriticReviews": 21,
+        "numOfPositiveCriticReviews": 19,
+        "numOfMixedCriticReviews": 2,
+        "numOfNegativeCriticReviews": 0
       }
     }
   }

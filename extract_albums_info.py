@@ -26,6 +26,7 @@ for album_line in tqdm(albums_lines, desc='Querying MetacriticAPI...', total=len
             f'    album: "{album}",',
             f'    artist: "{artist}"',
             '  }) {',
+            '    url',
             '    album',
             '    artist',
             '    releaseDate',
@@ -36,7 +37,6 @@ for album_line in tqdm(albums_lines, desc='Querying MetacriticAPI...', total=len
             '    numOfPositiveCriticReviews',
             '    numOfMixedCriticReviews',
             '    numOfNegativeCriticReviews',
-            '    productImage',
             '  }',
             '}'
         )
@@ -46,6 +46,7 @@ for album_line in tqdm(albums_lines, desc='Querying MetacriticAPI...', total=len
             album_data = response.json().get('data', {}).get('album')
             if album_data:
                 albums[album_identifier] = {"data": {"album": album_data}}
+
 
 with open('albums.json', 'w') as output_file:
     output_file.write(json.dumps(albums, indent=2))
